@@ -1,0 +1,38 @@
+[
+    {
+    "title": "Mem 1",
+    "upvotes": 6,
+    "downvotes": 0,
+    "img": "./imgs/a0.jpg"
+    },
+    {
+    "title": "Mem 2",
+    "upvotes": 1,
+    "downvotes": 2,
+    "img": "./imgs/a1.jpg"
+    },
+    {
+     "title": "Mem 3",
+     "upvotes": 12,
+     "downvotes": 5,
+     "img": "./imgs/a2.jpg"
+     },
+     {
+      "title": "Mem 4",
+      "upvotes": 1,
+      "downvotes": 5,
+      "img": "./imgs/a3.jpg"
+      },
+      {
+       "title": "Mem 5",
+       "upvotes": 10,
+       "downvotes": 5,
+       "img": "./imgs/a4.jpg"
+       },
+       {
+        "title": "Mem 6",
+        "upvotes": 15,
+        "downvotes": 5,
+        "img": "./imgs/a5.jpg"
+        }
+]
